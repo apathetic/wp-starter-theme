@@ -1,0 +1,56 @@
+/*!
+Theme Name:		sitename
+Description:	a site-y theme
+Author:			wes hatch
+Author URI:		http://weshatch.com
+Version:		0.2
+*/
+
+@font-face { /* whatever */ }
+@import 'compass';
+/*@import 'compass/css3';*/
+/*@import 'compass/reset';*/
+@import '_mixins';
+@import '_colours';
+@import '_reset';
+@import '_layout';
+@import '_general';
+@import '_media';
+
+
+/*  ---------------------------------------------------------
+	SECTION STYLES
+	-------------------------------------------------------*/
+
+/* --- header --- */
+
+/* --- main --- */
+
+/* --- sidebar --- */
+
+/* --- footer --- */
+
+/*  ---------------------------------------------------------
+	PAGE STYLES
+	-------------------------------------------------------*/
+
+/* --- home --- */
+
+/* --- about --- */
+
+/* --- etc --- */
+
+
+/*  ---------------------------------------------------------
+	RESPONSIVE STYLES
+	-------------------------------------------------------*/
+
+/* --- large --- */
+@media only screen and (max-width:1249px) { 
+}
+
+/* --- medium -- */
+@media only screen and (max-width:977px) {
+
+}
+

@@ -1,0 +1,12 @@
+/*  ---------------------------------------------------------
+	LAYOUT
+	-------------------------------------------------------*/
+
+.container { width:978px; margin:0 auto; background:#fff; }
+	header { height:145px; background:url('images/bg/header.png') no-repeat; }
+	#content{ padding:16px 30px; }
+		.main { width:610px; float:left; }
+			.main.feature { /*float:left;*/ }
+		.sidebar { width:300px; float:right; z-index:1; }
+			.lower.sidebar { clear:right; }
+	footer { clear:both; height:136px; padding:32px 0; text-align:center; background:#000 url('images/bg/footer.png') 0 0 repeat-x; }
